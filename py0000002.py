@@ -152,3 +152,4 @@ import pack_01
 #     print('woshizzt')
 # foo('zzt')
 
+print(eeee)
